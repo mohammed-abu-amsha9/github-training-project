@@ -11,7 +11,7 @@
 * **Git & GitHub**: لإدارة النسخ والعمل على الفروع (Branching).
 
 ##  لقطات من المشروع (Screenshots)
-![Main View](screenshot.png)
+![Main View](https://github.com/mohammed-abu-amsha9/github-training-project/blob/main/Screenshot.png)
 
 ##  خطوات التشغيل
 لكي تفتح المشروع على جهازك، اتبع الخطوات التالية:
